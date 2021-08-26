@@ -33,6 +33,10 @@ h3 {
   color: #1e836c;
 }
 
+a:hover {
+  color: #e0ebe8;
+}
+
 .topcontainer {
   line-height: 2;
   background-color: #e0ebe8;
@@ -140,6 +144,10 @@ h3 {
 
 .footer-link {
   color: #1e836c;
+  font-family:'Montserrat', sans-serif;
+  margin: 10px 20px;
+  line-height: 2;
+  text-decoration: none;
 }
 
 .ar2021 {
