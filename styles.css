@@ -9,13 +9,10 @@ div {
 }
 
 hr {
-  margin: auto auto 100px auto;
-  padding: 0;
-  border-style: none;
-  border-top-style: dotted;
-  border-width: 7.5px;
-  border-color: #e0ebe8;
-  width: 15%;
+  margin: 100px auto;
+  border: dotted #e0ebe8 7.5px;
+  border-bottom: none;
+  width: 10%;
 }
 
 h1 {
